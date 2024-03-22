@@ -416,7 +416,7 @@ module.exports = {
   },
   "state": {
     "data": [{
-      "title": "小户型卫浴怎样才能装得高大上1？",
+      "title": "小户型卫浴怎样才能装得高大上？",
       "coverImage": "https://img.alicdn.com/tfs/TB1Txq6o7T2gK0jSZFkXXcIQFXa-684-684.png",
       "readCount": 200,
       "user": {
